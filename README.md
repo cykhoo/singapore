@@ -38,6 +38,8 @@ put together by members of the Singapore Ruby community.
 - [Drinking Locations](#drinking-locations)
   - [Singapore Sling](#singapore-sling)
 - [Major Hawker Centres](#major-hawker-centres)
+- [Shopping](#shopping)
+  - [Electronics](#electronics)
 - [Sight Seeing](#sight-seeing)
 - [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
